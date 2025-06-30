@@ -1,5 +1,5 @@
 # Validação-Estatística-de-Escalas
-# 📘 14, 15 e 16 de julho 2025
+# 📘 14, 15 e 16 de julho 2025, Hospital de Faro
 
 **Descrição:**  
 Este repositório contém os materiais do curso.
