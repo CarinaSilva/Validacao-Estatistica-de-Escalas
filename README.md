@@ -1,1 +1,1 @@
-# Valida-o-Estat-stica-de-Escalas
+# Validação-Estatística-de-Escalas
