@@ -22,7 +22,7 @@ Este repositório contém os materiais do curso.
 ├── scripts/               # Scripts de R 
 ├── artigos/               # Artigos
 
-# 🗓️ Estrutura do Curso
+## 🗓️ Estrutura do Curso
 
 ## 📅 Dia 14 – Introdução e Construção de Escalas (4 horas)
 
