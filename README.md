@@ -36,7 +36,7 @@ Este repositório contém os materiais do curso.
 
 ---
 
-## 📅 Dia 2 – Estudo-piloto e Análise Estatística (6 horas)
+## 📅 Dia 15 – Estudo-piloto e Análise Estatística (6 horas)
 
 | Hora         | Tema                                           |
 |--------------|------------------------------------------------|
@@ -48,7 +48,7 @@ Este repositório contém os materiais do curso.
 
 ---
 
-## 📅 Dia 3 – Tradução, Validação e Publicação (6 horas)
+## 📅 Dia 16 – Tradução, Validação e Publicação (6 horas)
 
 | Hora         | Tema                                                       |
 |--------------|------------------------------------------------------------|
