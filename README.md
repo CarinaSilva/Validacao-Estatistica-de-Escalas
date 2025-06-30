@@ -21,6 +21,7 @@ Este repositório contém os materiais do curso.
 ├── dados_exemplo/         # Bases de dados em .csv, excel,
 ├── scripts/               # Scripts de R 
 ├── artigos/               # Artigos
+```
 
 ## 🗓️ Estrutura do Curso
 
