@@ -17,7 +17,7 @@ Este repositório contém os materiais do curso.
 
 ├── guioes/                # Guiões de apoio 
 ├── fichas de exercicios/  # Exercícios e atividades
-├── dados_exemplo/         # Bases de dados 
+├── dados/                 # Bases de dados 
 ├── scripts/               # Scripts de R 
 ├── artigos/               # Artigos
 ├── PPT/                   # Powerpoints apresentados durante o curso
