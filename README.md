@@ -1,5 +1,4 @@
-
-# 📘 14, 15 e 16 de julho 2025, Hospital de Faro
+ 📘 14, 15 e 16 de julho 2025, Hospital de Faro
 
 **Descrição:**  
 Este repositório contém os materiais do curso.
@@ -27,8 +26,6 @@ Este repositório contém os materiais do curso.
 ## 🗓️ Estrutura do Curso
 
 ## 📅 Dia 14 – Introdução e Jamovi (4 horas)
-
-|
 
 ---
 
