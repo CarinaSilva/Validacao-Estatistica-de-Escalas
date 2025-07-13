@@ -1,4 +1,4 @@
-# Validação-Estatística-de-Escalas
+
 # 📘 14, 15 e 16 de julho 2025, Hospital de Faro
 
 **Descrição:**  
@@ -18,46 +18,26 @@ Este repositório contém os materiais do curso.
 
 ├── guioes/                # Guiões de apoio 
 ├── fichas de exercicios/  # Exercícios e atividades
-├── dados_exemplo/         # Bases de dados em .csv, excel,
+├── dados_exemplo/         # Bases de dados 
 ├── scripts/               # Scripts de R 
 ├── artigos/               # Artigos
+├── PPT/                   # Powerpoints apresentados durante o curso
 ```
 
 ## 🗓️ Estrutura do Curso
 
-## 📅 Dia 14 – Introdução e Construção de Escalas (4 horas)
+## 📅 Dia 14 – Introdução e Jamovi (4 horas)
 
-| Hora         | Tema                                      |
-|--------------|-------------------------------------------|
-| 14:00–14:30  | Abertura e objetivos do curso             |
-| 14:30–15:30  | Fundamentos das escalas em saúde          |
-| 15:30–15:50  | Coffee Break                              |
-| 15:50-17:00  |                                           |
+|
 
 ---
 
-## 📅 Dia 15 – Estudo-piloto e Análise Estatística (6 horas)
-
-| Hora         | Tema                                           |
-|--------------|------------------------------------------------|
-| 09:00–10:30  | Estudo-piloto e aplicação da escala            |
-| 10:30–12:00  | Consistência interna: Alfa de Cronbach         |
-| 12:00–13:00  | Análise fatorial exploratória (EFA)            |
-| 14:00–15:00  | Introdução à análise com        JAMOVI         |
-| 15:00–17:00  | Aplicação prática com base de dados reais      |
+## 📅 Dia 15 – Fiabilidade Interna e Análise Fatorial Exploratória (6 horas)
 
 ---
 
-## 📅 Dia 16 – Tradução, Validação e Publicação (6 horas)
+## 📅 Dia 16 – Análise Fatorial Confirmatória e ScaleJam  (6 horas)
 
-| Hora         | Tema                                                       |
-|--------------|------------------------------------------------------------|
-| 09:00–10:30  | Processo de tradução e adaptação cultural (ISPOR/COSMIN)   |
-| 10:30–12:00  | Validade de constructo e teste-reteste                     |
-| 12:00–13:00  | Validade convergente, discriminante e invariância          |
-| 14:00–15:00  | Aspetos éticos e publicação científica                     |
-| 15:00–16:00  | Discussão final, dúvidas e entrega de certificados         |
-| 16:00-17:00  |                                                            |
 
 
 
